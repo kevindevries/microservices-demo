@@ -4,7 +4,7 @@ jobs:
 
 ################################
 
-# add pipeline workflow for Sock Shop FRONT-END component
+# add pipeline workflow for Pop! Shop FRONT-END component
 
 # manifest gen
   - name: man-front-end
